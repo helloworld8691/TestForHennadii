@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Viktor-Test</string>
+    <string name="home">Home</string>
+    <string name="news">News</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="more">More</string>
+    <string name="network_error">Network Error</string>
+    <string name="unknown_error_message">Oops, something went wrong</string>
+    <string name="check_connectivity_message">Please check your connectivity</string>
+    <string name="can_not_connect_to_sever_message">Cannot connect to server</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    </resources>
